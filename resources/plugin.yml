@@ -1,0 +1,4 @@
+name: EverythingIsDiamond
+main: everything_is_diamond.core
+depend: [cljminecraft]
+version: 1.0.0
